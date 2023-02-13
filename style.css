@@ -32,3 +32,13 @@
     color: black;
     margin-bottom: 20px;
 }
+.header-content button{
+    height: 60px;
+    width: 160px;
+    background-color: #F15B22;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+
+}
