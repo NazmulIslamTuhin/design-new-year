@@ -13,3 +13,9 @@
     align-items: center;
     height: 808px;
 }
+.header-content{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10%;
+    
+}
