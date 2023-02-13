@@ -5,4 +5,11 @@
 }
 .main-div{
     background-image: url("images/banner/banner1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    height: 808px;
 }
