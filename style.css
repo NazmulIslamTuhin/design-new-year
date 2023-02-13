@@ -142,6 +142,12 @@ second-div-content p{
     border: 1px solid #F15B22;
     font-size: 20px;
 }
+.call-now:hover{
+    background-color:#F15B22;
+    color: white;
+    cursor: pointer;
+    border: 2px solid #F15B22;
+}
 /* Footer */
 
 .footer{
