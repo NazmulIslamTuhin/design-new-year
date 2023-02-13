@@ -48,3 +48,15 @@
     cursor: pointer;
     border: 2px solid #F15B22;
 }
+
+
+/* second-div-start */
+.second-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 808px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
