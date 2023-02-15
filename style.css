@@ -186,8 +186,8 @@ second-div-content p{
     border-radius: 10px;
     padding-left: 10px;
     margin-bottom: 20px;
-    background-color: black;
-    border: 1px solid white;
+    background-color: rgb(254, 251, 251);
+    border: 1px solid rgb(246, 8, 8);
 }
 .right-footer button{
     height: 60px;
